@@ -1,4 +1,4 @@
-// C#2: (CIT-111) Final Proj.
+// C# Entity Framework Core Program
 // Date: 12/10/2025
 
 using Microsoft.EntityFrameworkCore;
