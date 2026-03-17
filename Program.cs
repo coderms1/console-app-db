@@ -1,7 +1,5 @@
-﻿// Holly, Anthony, Moises, Matthew
-// Date: 12/10/2025
 // C#2: (CIT-111) Final Proj.
-// Professor Crouch
+// Date: 12/10/2025
 
 using Microsoft.EntityFrameworkCore;
 using System;
